@@ -1,6 +1,6 @@
 Hi there, I'm Trong Nguyen
 
-- 👋 Hi, I’m a rising senior at the University of Arizona
+- 👋 Hi, I’m a recent graduate at the University of Arizona
 - 👀 I’m interested in coding, software engineering and data science
 - 📫 If you want to know more about me, please visit my website.
 
